@@ -1,0 +1,8 @@
+*.exe
+Smartlock64.exe
+node_modules/
+.DS_Store
+*.log
+.tempmediaStorage/
+brain/
+artifacts/

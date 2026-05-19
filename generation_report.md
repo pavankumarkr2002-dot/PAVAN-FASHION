@@ -1,0 +1,30 @@
+  THE DROP:       20/20 ✅ COMPLETED
+  STYLE NOTES:    20/20 ✅ COMPLETED
+  WANDERLUST:     20/20 ✅ COMPLETED
+  OCCASION:       20/20 ✅ COMPLETED
+  CO-ORD SETS:    20/20 ✅ COMPLETED
+  LINEN EDIT:     20/20 ✅ COMPLETED
+  BEST SELLERS:   20/20 ✅ COMPLETED
+  DRESSES:        20/20 ✅ COMPLETED
+  TOPS:           20/20 ✅ COMPLETED
+  SHIRTS:         20/20 ✅ COMPLETED
+  T-SHIRTS:       20/20 ✅ COMPLETED
+  KNITWEAR:       20/20 ✅ COMPLETED
+  TROUSERS:       20/20 ✅ COMPLETED
+  JEANS:          20/20 ✅ COMPLETED
+  SKIRTS:         20/20 ✅ COMPLETED
+  SHORTS:         20/20 ✅ COMPLETED
+  BLAZERS:        20/20 ✅ COMPLETED
+  JACKETS:        20/20 ✅ COMPLETED
+  CARDIGANS:      20/20 ✅ COMPLETED
+  SHOES:          20/20 ✅ COMPLETED
+  BAGS:           20/20 ✅ COMPLETED
+  SWIMWEAR:       20/20 ✅ COMPLETED
+  ACCESSORIES:    20/20 ✅ COMPLETED
+  SPECIAL PRICES: 20/20 ✅ COMPLETED
+
+  TOTAL: 480/480 ✅ ALL IMAGES LOADED (MAIN + HOVER)
+
+METHOD: Comprehensive Manual Unsplash Mapping
+  (Fixed all broken placeholders sitewide)
+  All 24 categories now point to verified, high-quality assets.

@@ -1,0 +1,17 @@
+{
+  "name": "p-fashion",
+  "version": "1.0.0",
+  "description": "P FASHION | Luxury Fashion E-commerce SPA",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ./",
+    "dev": "npx serve ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
